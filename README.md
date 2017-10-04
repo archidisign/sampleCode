@@ -6,10 +6,18 @@ This directory hosts many sample codes, mostly from coursework and coding exerci
 - HiRiQ.java
 
 <h3> Python </h3>
-- dashboard.py
-- seeFriend.py
-- status.py
-- DP.py
+<ul>
+<li> dashboard.py </li>
+<li> seeFriend.py </li>
+<li> status.py </li>
+<li> DP.py </li>
+</ul>
+
+SequenceAlignment.py
+binarySearch.py
+
+gradeModeration.py
+mergeSort.py
 
 <h3> SQL </h3>
 - SampleSQLQueries
