@@ -4,7 +4,7 @@ This directory hosts many sample codes, mostly from coursework and coding exerci
 
 <h3> Java </h3>
 <ul>
-<il> HiRiQ.java</il
+<il> HiRiQ.java</il>
 </ul>
 
 <h3> Python </h3>
