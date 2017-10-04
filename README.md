@@ -3,7 +3,9 @@
 This directory hosts many sample codes, mostly from coursework and coding exercises.
 
 <h3> Java </h3>
-- HiRiQ.java
+<ul>
+<il> HiRiQ.java</il
+</ul>
 
 <h3> Python </h3>
 <ul>
@@ -11,14 +13,14 @@ This directory hosts many sample codes, mostly from coursework and coding exerci
 <li> seeFriend.py </li>
 <li> status.py </li>
 <li> DP.py </li>
+<li> SequenceAlignment.py</li>
+<li> binarySearch.py</li>
+<li> gradeModeration.py</li>
+<li> mergeSort.py</li>
 </ul>
 
-SequenceAlignment.py
-binarySearch.py
-
-gradeModeration.py
-mergeSort.py
-
 <h3> SQL </h3>
-- SampleSQLQueries
-- SampleSQLCreateTable
+<ul>
+<li> SampleSQLQueries</li>
+<li> SampleSQLCreateTable</li>
+</ul>
